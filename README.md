@@ -2,4 +2,4 @@
 
 -estado de proyecto en construcción
 
-sistema de registro 2 
+sistema de registro  
