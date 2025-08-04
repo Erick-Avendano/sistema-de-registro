@@ -2,4 +2,6 @@
 
 -estado de proyecto en construcción
 
-sistema de registro  
+para ejecutar el sistema, debes poner
+
+""nmp install react"
